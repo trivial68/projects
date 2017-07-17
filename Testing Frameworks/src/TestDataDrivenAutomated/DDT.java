@@ -47,7 +47,7 @@ public class DDT {
 		Object[][] data = new Object[2][2];
 		
 		data[0][0]="andrew";
-		data[0][1]="cost4rica";
+		data[0][1]="password";
 		
 		data[1][0]="user1";
 		data[1][1]="pass1";
